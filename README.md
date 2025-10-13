@@ -1,6 +1,6 @@
 ---
 
-# Amazon Product Intelligence Suite  
+## Amazon Product Intelligence Suite  
 **소비자 반응 분석 및 경쟁사 비교를 통한 매출 향상 도구**
 
 ---
